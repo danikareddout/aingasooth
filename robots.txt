@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thohyohpi.innovationpolymers.ca/sitemap.xml
